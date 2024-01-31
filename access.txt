@@ -1,0 +1,11 @@
+homepageurl https://fothebys.v.je/
+
+adminuser: AdminTestTest@example.com
+adminpass: AdminTestTest
+
+nonadminuser: TestHash@example.com
+nonadminpassword: TestHash
+
+
+book an appraisal 
+
